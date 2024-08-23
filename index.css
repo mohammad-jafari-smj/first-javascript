@@ -1,0 +1,10 @@
+#container{
+    background-color: lightblue;
+    font-size: 2rem;
+    display: inline;
+    margin: auto;
+}
+
+#wrapper{
+    margin: auto;
+}
